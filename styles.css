@@ -13,3 +13,19 @@
 .family-video p:not(.eyebrow){color:var(--muted);margin:0}
 .family-video video{width:100%;max-height:440px;background:#263b32;object-fit:contain;border-radius:6px;box-shadow:12px 12px 0 var(--pink)}
 @media(max-width:760px){.family-video{grid-template-columns:1fr;gap:25px}.family-video video{max-height:340px}}
+
+/* Ajustes de leitura solicitados: textos maiores, mantendo os títulos. */
+body{font-size:17px}
+.topbar nav a{font-size:1rem}
+.lead{font-size:1.16rem}
+.pet-info p{font-size:1rem}
+.tag{font-size:.82rem}
+.notice{font-size:1rem}
+.care-list{font-size:1.05rem}
+.small-note{font-size:1rem}
+.adoption>p:not(.eyebrow),.adoption-points p{font-size:1.02rem}
+.contact-panel p{font-size:1.02rem}
+.contact-hint{font-size:.88rem!important}
+.sex{margin:8px 0 2px!important;color:#465b4d!important;font-size:1rem!important}
+.sex-pending{color:#9a5d32!important}
+@media(max-width:760px){.pet-info p{font-size:.98rem}.tag{font-size:.76rem}}

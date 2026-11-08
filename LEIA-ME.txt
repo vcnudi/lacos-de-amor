@@ -1,22 +1,10 @@
-LAÇOS DE AMOR — SITE DE ADOÇÃO | CORAÇÃO ANIMAL
+LAÇOS DE AMOR — versão de teste
+Campanha de adoção responsável do grupo Coração Animal.
 
-Contato de adoção:
-Aline — WhatsApp: (11) 94274-8494
-
-O botão do WhatsApp já está configurado para abrir uma conversa com mensagem inicial.
-
-Arquivos:
-- index.html: conteúdo e estrutura do site
-- styles.css: aparência e adaptação para celular
-- script.js: botão de WhatsApp
-- assets/: fotografias e vídeo enviados para a campanha
+Arquivos principais: index.html, styles.css, script.js e assets/.
+A pasta assets contém as fotos dos 24 filhotes, a foto da Aura e o vídeo da família.
 
 ANTES DE PUBLICAR:
-1. Confirme se o grupo Coração Animal autoriza o uso do nome e a divulgação.
-2. Confirme a correspondência dos nomes, fotos e sexos dos filhotes.
-3. Confirme os dados veterinários e atualize os perfis conforme houver adoções, vacinas e castrações.
-
-Observações:
-- Esta é uma primeira versão de trabalho.
-- Os perfis dos filhotes informam vacinação e castração pendentes conforme dados recebidos.
-- A Aura será encaminhada para adoção somente após castração e recuperação.
+- Conferir nomes, fotos e sexos de todos os animais.
+- Confirmar com a ONG a autorização para divulgar fotos, nomes e informações.
+- Atualizar os perfis conforme ocorrerem adoções, vacinação e castração.
